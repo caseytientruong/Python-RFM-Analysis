@@ -72,31 +72,31 @@ Example: Customers with high RFM scores across all three categories (e.g., Recen
 
 The Median Recency by Segment plot shows that the longer it takes for a customer to return to the store (the higher recency score), the less likely he or she is to return at all.  In this plot, we see that recently, the groups of customers are Lost customers, Cannot Lose Them and At Risk. This means, we should focus on marketing strategies, best seller products and customer groups to stimulate more sales to the At Risk group. However, we still see the good amount of customers in Cannot Lose Them group, which are valuable to the company.
 
-![png]([median frequency](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/median%20frequency.png))
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/median%20frequency.png))
 
 The Median Frequency by Segment plot shows that which group of customers have purchased regularly during a specific period. In this plot, we see groups of Champions, Loyal and Need Attention are the most among other customer groups. This means that it is good to see the most profitable customers in the company.
 
-![png]([median monetary](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/median%20monetary.png))
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/median%20monetary.png))
 
 The Median Monetary by Segment plot shows customer behavior within the company. This plot aligns well with the Median Frequency by Segment plot because Champions and Loyal customers are customers with the highest monetary and purchase items frequently.
 
 ### Pie Chart of customer segmentations
 
-![png](pie chart)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/pie%20chart.png)
 
 The pie chart shows that there are three most important customer segmentations that the company needs to pay attention to, which are: Potential Loyalist that constitute 14% of all customers, At Risk customers that constitute 12% of all customers and Hibernating customers that constitute 11% of all customers. It is good to see that overall, the company still keep a decent number of potential loyalists. However, seeing that the group of hibernating customers and at risk customers are big, the marketing department can reach out these groups by doing campaign and focus to the group "at risk" to increase customer retention.
 
 ### Relationship of RFM Score
 
-![png](recency vs monetary)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/recency%20vs%20monetary.png)
 
 Customer who visited more recently generated more revenue compared to those who visited in the distant past. The customers who visited in the recent past are more likely to return compared to those who visited long time ago as most of those would be lost customers. Thus, higher revenue would be associated with most recent visits.
 
-![png](frequency vs monetary)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/frequency%20vs%20monetary.png)
 
 As the frequency of visits increases, the revenue generated also increases. Customers who visit more frequently are your champion customers, loyal customers or potential loyalists and they drive higher revenue.
 
-![png](frequency vs recency)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/frequency%20vs%20recency.png)
 
 Customers with low frequency visited in the distant past while those with high frequency have visited in the recent past. The customers who visited in the recent past are more likely to return compared to those who visited long time ago. Thus, higher frequency would be associated with the most recent visits.
 
@@ -108,23 +108,23 @@ Based on the above analysis of the RFM factors, recency is the most important fa
 
 ### Which product categories drive the most revenue? (Monetary)
 
-![png](Sales by product)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/Sales%20by%20product.png)
 
 In this plot, we observe that Office Supplies is the category that generates the most sales within the company, constitutes over 80% of overall sales in the company, and over 50% of Technology category. This means the company should focus their marketing strategies on Office Supplies to maximize their revenue, and at the same time, doing more advertising campagins or promotions on Technology category as this category is promising in sales.
 
 ### Which channels drive the most revenue? (Monetary)
 
-![png](Sales by channel)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/sales%20by%20channel.png)
 
 The plot above shows that Consumer Channel is the best channel to generate revenue, with over 200000 compared to Corporate with 120000 and Home Office with 70000, which is about 80% of overall sales in the company. Because our best product category is Office Supplies, this indicates our consumers are people who works in corporate jobs or in educational fields, retail or wholesale. This aligns well with the Sales by Product Category plot to help the company build appropriate strategies to focus more on consumer channel more than Home Office and Corporate to maximize the revenue.
 
 ### Analyze sales trends over time (Recency vs Monetary)
 
-![png](Sales trend over year)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/sales%20trend%20over%20year.png)
 
 Based on this plot, we observe a down trend in sales over time from 2014 to 2015 from 10500 to 9000, which is about 20% decrease, then sales has increased from 2015 to 2017 from 9000 to 10000, which is about 10% increase. This indicates that there is a chance that sales will continue to increase from 2017. However, there is a slow increase in sales so we should focus more on most sales genrated product category and customer channel in order to determine the best marketing strategies to maximize our revenue.
 
-![png](Sales trend over month)
+![png](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/sales%20trend%20over%20month.png)
 
 Based on this plot, we observe that sales in March, June, September and December are the highest over year, with 7000 is the highest revenue in September. This is because Spring semester in school mostly starts from March to June, while Fall semester in school mostly starts in September, and December is during holidays. This aligns well with the best seller product categeory, which is office supplies that target to students and people who works in corporate jobs. On the other hand, February and October generate the least sales of a whole year.
 
