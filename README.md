@@ -68,7 +68,7 @@ Example: Customers with high RFM scores across all three categories (e.g., Recen
 ### Distribution of Recency, Frequency, Monetary
 * In this plot, we want to examine the median recency, frequency, and monetary value accross segments to determine which factor is the most important one among those three.
 
-![png](median recency)
+![Median Recency](https://github.com/caseytientruong/Python-RFM-Analysis/blob/main/median%20recency.png)
 
 The Median Recency by Segment plot shows that the longer it takes for a customer to return to the store (the higher recency score), the less likely he or she is to return at all.  In this plot, we see that recently, the groups of customers are Lost customers, Cannot Lose Them and At Risk. This means, we should focus on marketing strategies, best seller products and customer groups to stimulate more sales to the At Risk group. However, we still see the good amount of customers in Cannot Lose Them group, which are valuable to the company.
 
